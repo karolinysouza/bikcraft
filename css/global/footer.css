@@ -39,3 +39,8 @@
 .footer a:hover {
   color: var(--cor-0);
 }
+
+.footer-copy {
+  grid-column: 1/-1;
+  margin-top: 40px;
+}
