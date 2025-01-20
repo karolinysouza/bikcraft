@@ -59,3 +59,18 @@
 .bicicletas a {
   place-self: end;
 }
+
+.bicicletas li {
+  display: flex;
+  align-items: center;
+}
+
+.bicicletas ul {
+  display: grid;
+  gap: 16px;
+}
+
+.bicicleta-conteudo img {
+  width: 24px;
+  margin-right: 8px;
+}
